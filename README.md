@@ -1,4 +1,15 @@
-### Hi there 👋
+## Mathew E. Thompson
+### Sofware Manager and Developer
+
+I am a software manager and developer. I reside in the Chicago Area. I have been tinkering with and writing software for the majority of my life. I currently manage mobile application projects.
+
+My current interests include fitness, motorcycles and drawing.
+
+I am always looking for an opportunity to lead and mentor other developers.
+
+I am also looking for fun open source projects to collaborate on.
+
+
 
 <!--
 **methompson/methompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
