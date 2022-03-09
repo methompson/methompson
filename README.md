@@ -1,7 +1,7 @@
 ## Mathew E. Thompson
-### Sofware Manager and Developer
+### Engineering Manager and Developer
 
-I am a software manager and developer. I reside in the Chicago Area. I have been tinkering with and writing software for the majority of my life. I currently manage mobile application projects.
+I am a software engineering manager and developer. I reside in the Chicago Area. I have been tinkering with and writing software for the majority of my life. I currently manage mobile application and web projects.
 
 My current interests include fitness, motorcycles and drawing.
 
